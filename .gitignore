@@ -1,0 +1,5 @@
+smartknobpylib/__pycache__/
+smartknobpylib/.pytest_cache/
+smartknobpylib/.vscode/
+smartknobpylib/smartknobpylib.egg-info/
+smartknobpylib/venv/
